@@ -2,10 +2,13 @@ html {
   font-size: 100%;
   font-family: Arial, Helvetica, sans-serif;
 }
-/*COLOR DEL PRIMER h1*/
-.new-color {
-  color: silver;
-  background-color: #000;
+
+/*colour of the background*/
+
+body {
+  background-color: #191313;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 h1 {
