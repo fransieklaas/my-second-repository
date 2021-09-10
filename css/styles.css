@@ -12,5 +12,10 @@ h1 {
   color: red;
   background-color: lightblue;
 }
-.standard-box {
+.standard-box-black {
+  background-color: #191313;
+  width: 1920px;
+  padding: 1000;
+  border: 0px;
+  margin: 0px;
 }
